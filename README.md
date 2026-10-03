@@ -25,4 +25,4 @@ On some systems, use `python3` instead of `python`.
 
 When adding an expense, enter the date as `DD-MM-YYYY`, then provide a category (such as food, clothes, studies, or travel) and the amount spent.
 
-> Expenses are kept in memory while the program is running. They are cleared when you exit; the app does not save them to a file yet.
+
